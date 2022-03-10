@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/magic-rn",
+  "name": "magic-rn-web3-react",
   "keywords": [
     "web3-react",
     "magic",
@@ -11,7 +11,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "8.0.15-beta.0",
+  "version": "8.0.14-beta.0",
   "files": [
     "dist/*"
   ],
