@@ -1,8 +1,9 @@
 {
-  "name": "@web3-react/magic",
+  "name": "@web3-react/magic-rn",
   "keywords": [
     "web3-react",
-    "magic"
+    "magic",
+    "react-native"
   ],
   "author": "Noah Zinsmeister <noahwz@gmail.com>",
   "license": "GPL-3.0-or-later",
@@ -29,6 +30,6 @@
     "@web3-react/types": "^8.0.10-beta.0"
   },
   "peerDependencies": {
-    "magic-sdk": "^7.0.0"
+    "@magic-sdk/react-native": "^7.0.0"
   }
 }
